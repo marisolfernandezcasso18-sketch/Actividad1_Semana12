@@ -1,0 +1,6 @@
+Ejemplo flujo Petición en 3 Clics
+1. Creación de la causa
+2. Registro seguro en la base de datos
+3. Apoyo de la comunidad
+4. Notificación y conteo automático
+5. Generación del documento formal

@@ -1,0 +1,9 @@
+¿Qué evento activa la automatización?
+En el momento exacto en que un ciudadano publica una causa.
+¿Qué mensaje se envía?
+Nueva causa comunitaria creada!
+Título: (Título de la causa)
+Descripción: (Breve descripción del problema o propuesta)
+Fecha: (Fecha de creación)
+Qué información no debe enviarse por seguridad: Nombres completos, números de identificación, Correos
+electrónicos, números de teléfono o direcciones exactas de domicilios particular.

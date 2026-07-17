@@ -1,0 +1,11 @@
+Entidad: Causa (Almacena las iniciativas comunitarias)
+id (Identificador único, ej: Número)
+titulo (Texto breve)
+descripcion (Texto detallado)
+fecha_creacion (Fecha y hora)
+
+Entidad: Apoyo
+id (Identificador único, ej: Número)
+causa_id (Enlace al id de la Causa apoyada)
+nombre_ciudadano (Texto)
+fecha_apoyo (Fecha y hora)
